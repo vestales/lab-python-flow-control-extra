@@ -30,6 +30,9 @@
 
 - Data types, operators and structures
 - Flow control (if-else statements and loops)
+
+</details>
+  
   <br>
   <hr> 
 
