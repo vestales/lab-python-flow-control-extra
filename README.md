@@ -53,7 +53,7 @@ By the end of the lab, you should be able to identify situations that require th
 
 ## Getting Started
 
-Complete the challenges in the `src` directory. Follow the instructions and add your code and explanations as necessary.
+Complete the challenges in notebook. Follow the instructions and add your code and explanations as necessary.
 
 ## Submission
 
